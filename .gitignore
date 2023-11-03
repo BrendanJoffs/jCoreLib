@@ -403,3 +403,7 @@ FodyWeavers.xsd
 *.vcxproj.filters
 *.vcxproj.user
 *.vcproj
+
+# Project specific folders
+/out
+/out/bin

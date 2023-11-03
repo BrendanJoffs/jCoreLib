@@ -46,7 +46,6 @@ project "CoreLib"
 		defines
 		{
 			"DEBUG",
-			"SYSTEM_DEFAULT_ERROR_LEVEL_INFO"
 		}
 		
 		optimize "Debug"
@@ -56,7 +55,6 @@ project "CoreLib"
 		{
 			"NDEBUG",
 			"RELEASE",
-			"SYSTEM_DEFAULT_ERROR_LEVEL_ERROR"
 		}
 		
 		optimize "On"
